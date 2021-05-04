@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  width: 100vw;
+}
+.container {
+  width: 60%;
+}
+.bg-img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0.6;
+  z-index: -1;
+}
